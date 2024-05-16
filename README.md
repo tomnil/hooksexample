@@ -1,3 +1,5 @@
+# DEPRECATED 2024-05-16
+
 # Hooks demo
 
 This project shows some hook examples.
